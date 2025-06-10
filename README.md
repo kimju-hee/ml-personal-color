@@ -13,6 +13,11 @@
 <br>
 
 ## ✨ 주요 기능
+
+![image](https://github.com/user-attachments/assets/6862d5ad-387a-4a7a-943f-4e59d4acf71b)
+![image](https://github.com/user-attachments/assets/4e7580db-e129-4886-91ce-0c13f0635416)
+
+
 - 💻 이미지 업로드 및 저장  
 - 🎨 OpenCV로 이미지 전처리 (LAB 색공간 B 채널 평균 추출)  
 - 🌲 Random Forest 분류기로 퍼스널컬러 예측  
